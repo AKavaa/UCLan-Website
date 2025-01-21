@@ -11,7 +11,7 @@ const hoodies = [
       "Light Blue",
       "cotton authentic character and practicality are combined in this comfy warm and luxury hoodie for students that goes with everything to create casual looks",
       "£39.99",
-      "images/hoodies/hoodie (2).jpg",
+      "hoodies/hoodie (2).jpg",
     ],
     [
       "UCLan Hoodie (3)",
